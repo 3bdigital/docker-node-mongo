@@ -1,4 +1,4 @@
-FROM node:6.9
+FROM node:8.9
 
 # install mongo client tools
 RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
